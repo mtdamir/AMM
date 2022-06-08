@@ -1,0 +1,2 @@
+cargo:rustc-env=TYPENUM_BUILD_CONSTS=/home/amir/Documents/polkadot-amm/contract/target/rls/debug/build/typenum-31935c1e32bb8572/out/consts.rs
+cargo:rustc-env=TYPENUM_BUILD_OP=/home/amir/Documents/polkadot-amm/contract/target/rls/debug/build/typenum-31935c1e32bb8572/out/op.rs

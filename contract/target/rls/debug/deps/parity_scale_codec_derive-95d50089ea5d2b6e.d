@@ -1,0 +1,10 @@
+/home/amir/Documents/polkadot-amm/contract/target/rls/debug/deps/libparity_scale_codec_derive-95d50089ea5d2b6e.so: /home/amir/.cargo/registry/src/github.com-1ecc6299db9ec823/parity-scale-codec-derive-3.1.2/src/lib.rs /home/amir/.cargo/registry/src/github.com-1ecc6299db9ec823/parity-scale-codec-derive-3.1.2/src/decode.rs /home/amir/.cargo/registry/src/github.com-1ecc6299db9ec823/parity-scale-codec-derive-3.1.2/src/encode.rs /home/amir/.cargo/registry/src/github.com-1ecc6299db9ec823/parity-scale-codec-derive-3.1.2/src/max_encoded_len.rs /home/amir/.cargo/registry/src/github.com-1ecc6299db9ec823/parity-scale-codec-derive-3.1.2/src/utils.rs /home/amir/.cargo/registry/src/github.com-1ecc6299db9ec823/parity-scale-codec-derive-3.1.2/src/trait_bounds.rs
+
+/home/amir/Documents/polkadot-amm/contract/target/rls/debug/deps/parity_scale_codec_derive-95d50089ea5d2b6e.d: /home/amir/.cargo/registry/src/github.com-1ecc6299db9ec823/parity-scale-codec-derive-3.1.2/src/lib.rs /home/amir/.cargo/registry/src/github.com-1ecc6299db9ec823/parity-scale-codec-derive-3.1.2/src/decode.rs /home/amir/.cargo/registry/src/github.com-1ecc6299db9ec823/parity-scale-codec-derive-3.1.2/src/encode.rs /home/amir/.cargo/registry/src/github.com-1ecc6299db9ec823/parity-scale-codec-derive-3.1.2/src/max_encoded_len.rs /home/amir/.cargo/registry/src/github.com-1ecc6299db9ec823/parity-scale-codec-derive-3.1.2/src/utils.rs /home/amir/.cargo/registry/src/github.com-1ecc6299db9ec823/parity-scale-codec-derive-3.1.2/src/trait_bounds.rs
+
+/home/amir/.cargo/registry/src/github.com-1ecc6299db9ec823/parity-scale-codec-derive-3.1.2/src/lib.rs:
+/home/amir/.cargo/registry/src/github.com-1ecc6299db9ec823/parity-scale-codec-derive-3.1.2/src/decode.rs:
+/home/amir/.cargo/registry/src/github.com-1ecc6299db9ec823/parity-scale-codec-derive-3.1.2/src/encode.rs:
+/home/amir/.cargo/registry/src/github.com-1ecc6299db9ec823/parity-scale-codec-derive-3.1.2/src/max_encoded_len.rs:
+/home/amir/.cargo/registry/src/github.com-1ecc6299db9ec823/parity-scale-codec-derive-3.1.2/src/utils.rs:
+/home/amir/.cargo/registry/src/github.com-1ecc6299db9ec823/parity-scale-codec-derive-3.1.2/src/trait_bounds.rs:
