@@ -26,6 +26,7 @@ Part 10. Unit Testing
 
 ## Technologies
 Rust
+
 ink! 3.2.0
 
 ## Setup
