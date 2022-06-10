@@ -1,7 +1,7 @@
 # AMM
 
 ## General info
-The smart contract of this project has 10 parts:
+The smart contract of this project have 10 parts:
 
 Part 1. Define Error enum 
 
